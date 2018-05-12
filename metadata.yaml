@@ -1,0 +1,26 @@
+_repo: With-Those-Who-Wait_20111
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Huard, Frances Wilson
+    birthdate: 1885
+    gutenberg_agent_id: '4255'
+    url: http://www.gutenberg.org/2009/agents/4255
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2006-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20111'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+title: With Those Who Wait
+url: http://www.gutenberg.org/ebooks/20111
